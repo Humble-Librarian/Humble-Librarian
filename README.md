@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Neel%20Sorathiya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Builder;Building+Data+Pristine+%40+SAP;Open+to+Internships+%26+Freelance+Work" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Builder;Open+to+Internships+%26+Freelance+Work" />
 
 ![College](https://img.shields.io/badge/C.K.%20Pithawala%20College-GTU-7aa2f7?style=for-the-badge)
 ![Degree](https://img.shields.io/badge/Computer%20Engineering%20%26%20Data%20Science-9ece6a?style=for-the-badge)
