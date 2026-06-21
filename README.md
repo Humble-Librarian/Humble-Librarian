@@ -43,35 +43,35 @@ Outside of internship work, I design and ship independent products end-to-end â€
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
 <br/>
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDNoOHY4SDNWM3ptMCAxMGg4djhIM3YtOHptMTAtMTBoOHY4aC04VjN6bTUgMTB2OGgtM3YtOGgzeiIvPjwvc3ZnPg==&logoColor=white" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/Optuna-2C6CB0?style=flat-square&logo=optuna&logoColor=white" alt="Optuna"/>
-<img src="https://img.shields.io/badge/FAISS-4FC3F7?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xNiAxNmw1IDUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMyAyTDMgMTRoOWwtMSA4IDEwLTEyaC05bDEtOHoiLz48L3N2Zz4=&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDNoOHY4SDNWM3ptMCAxMGg4djhIM3YtOHptMTAtMTBoOHY4aC04VjN6bTUgMTB2OGgtM3YtOGgzeiIvPjwvc3ZnPg==&logoColor=white" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/Optuna-2C6CB0?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna"/>
+<img src="https://img.shields.io/badge/FAISS-4FC3F7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xNiAxNmw1IDUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMyAyTDMgMTRoOWwtMSA4IDEwLTEyaC05bDEtOHoiLz48L3N2Zz4=&logoColor=white" alt="Groq"/>
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,d3.js" />
 <br/>
-<img src="https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjIiIHk9IjEzIiB3aWR0aD0iNSIgaGVpZ2h0PSI4IiByeD0iMSIvPjxyZWN0IHg9IjkuNSIgeT0iNyIgd2lkdGg9IUiIGhlaWdodD0iMTQiIHJ4PSIxIi8+PHJlY3QgeD0iMTciIHk9IjMiIHdpZHRoPSI1IiBoZWlnaHQ9IjE4IiByeD0iMSIvPjwvc3ZnPg==&logoColor=white" alt="Recharts"/>
+<img src="https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjIiIHk9IjEzIiB3aWR0aD0iNSIgaGVpZ2h0PSI4IiByeD0iMSIvPjxyZWN0IHg9IjkuNSIgeT0iNyIgd2lkdGg9IUiIGhlaWdodD0iMTQiIHJ4PSIxIi8+PHJlY3QgeD0iMTciIHk9IjMiIHdpZHRoPSI1IiBoZWlnaHQ9IjE4IiByeD0iMSIvPjwvc3ZnPg==&logoColor=white" alt="Recharts"/>
 
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,streamlit" />
 <br/>
-<img src="https://img.shields.io/badge/Jetty%209-e11d48?style=flat-square&logo=eclipsejetty&logoColor=white" alt="Jetty"/>
+<img src="https://img.shields.io/badge/Jetty%209-e11d48?style=for-the-badge&logo=eclipsejetty&logoColor=white" alt="Jetty"/>
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,firebase" />
 <br/>
-<img src="https://img.shields.io/badge/ChromaDB-6366F1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djE0YzAgMS42NiAzLjU4IDMgOCAzczgtMS4zNCA4LTNWNSIvPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjEyIiByeD0iOCIgcnk9IjMiLz48L3N2Zz4=&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/ChromaDB-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djE0YzAgMS42NiAzLjU4IDMgOCAzczgtMS4zNCA4LTNWNSIvPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjEyIiByeD0iOCIgcnk9IjMiLz48L3N2Zz4=&logoColor=white" alt="ChromaDB"/>
 
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,linux" />
 <br/>
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP BTP"/>
-<img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white" alt="Cloud Foundry"/>
+<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP"/>
+<img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white" alt="Cloud Foundry"/>
 
 ---
 
