@@ -43,35 +43,35 @@ Outside of internship work, I design and ship independent products end-to-end â€
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
 <br/>
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
-![Optuna](https://img.shields.io/badge/Optuna-2C6CB0?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4FC3F7?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/Optuna-2C6CB0?style=flat-square" alt="Optuna"/>
+<img src="https://img.shields.io/badge/FAISS-4FC3F7?style=flat-square" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,d3.js" />
 <br/>
-![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square&logo=recharts&logoColor=white)
+<img src="https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square&logo=recharts&logoColor=white" alt="Recharts"/>
 
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,streamlit" />
 <br/>
-![Jetty](https://img.shields.io/badge/Jetty%209-e11d48?style=flat-square)
+<img src="https://img.shields.io/badge/Jetty%209-e11d48?style=flat-square" alt="Jetty"/>
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,firebase" />
 <br/>
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6366F1?style=flat-square)
+<img src="https://img.shields.io/badge/ChromaDB-6366F1?style=flat-square" alt="ChromaDB"/>
 
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,linux" />
 <br/>
-![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white)
+<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP BTP"/>
+<img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white" alt="Cloud Foundry"/>
 
 ---
 
@@ -222,9 +222,7 @@ Building Data Pristine, an end-to-end data quality and anomaly detection pipelin
 ## GitHub Trophies
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Humble-Librarian&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Humble-Librarian&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -240,7 +238,7 @@ Building Data Pristine, an end-to-end data quality and anomaly detection pipelin
 ## Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Humble-Librarian/Humble-Librarian/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Humble-Librarian/Humble-Librarian/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
