@@ -43,35 +43,35 @@ Outside of internship work, I design and ship independent products end-to-end â€
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
 <br/>
-<img src="https://skillicons.dev/icons?i=lightgbm" alt="LightGBM"/>
-<img src="https://skillicons.dev/icons?i=optuna" alt="Optuna"/>
-<img src="https://img.shields.io/badge/FAISS-4FC3F7?style=flat-square&logo=facebook&logoColor=white" alt="FAISS"/>
-<img src="https://skillicons.dev/icons?i=groq" alt="Groq"/>
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/Optuna-2C6CB0?style=for-the-badge" alt="Optuna"/>
+<img src="https://img.shields.io/badge/FAISS-4FC3F7?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
 
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,d3.js" />
 <br/>
-<img src="https://skillicons.dev/icons?i=recharts" alt="Recharts"/>
+<img src="https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge" alt="Recharts"/>
 
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,streamlit" />
 <br/>
-<img src="https://img.shields.io/badge/Jetty%209-e11d48?style=flat-square&logo=eclipsejetty&logoColor=white" alt="Jetty"/>
+<img src="https://img.shields.io/badge/Jetty%209-e11d48?style=for-the-badge" alt="Jetty"/>
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,firebase" />
 <br/>
-<img src="https://skillicons.dev/icons?i=chromadb" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/ChromaDB-6366F1?style=for-the-badge" alt="ChromaDB"/>
 
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,linux" />
 <br/>
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP BTP"/>
-<img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white" alt="Cloud Foundry"/>
+<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP"/>
+<img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white" alt="Cloud Foundry"/>
 
 ---
 
