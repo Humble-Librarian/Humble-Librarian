@@ -35,18 +35,43 @@ Outside of internship work, I design and ship independent products end-to-end â€
 
 ## Tech Stack
 
-```javascript
-const techStack = {
-  languages: ["Python", "JavaScript", "TypeScript", "Java", "C", "HTML/CSS"],
-  ai_ml: ["PyTorch", "LightGBM", "Optuna", "OpenCV", "scikit-learn", "FAISS"],
-  frontend: ["React", "Next.js 14", "Tailwind CSS", "Vite", "D3.js", "Recharts"],
-  backend: ["FastAPI", "Node.js", "Streamlit", "Jetty 9"],
-  databases: ["PostgreSQL", "MySQL", "Supabase", "ChromaDB", "Firebase Firestore"],
-  cloud: ["SAP BTP", "Cloud Foundry", "AWS", "Vercel", "GitHub Actions"],
-  tools: ["Groq API", "Git", "Docker", "VS Code", "Linux"],
-  domains: ["Anomaly Detection", "LLM Memory Systems", "Deepfake Forensics", "Sports Analytics", "RAG Pipelines"]
-};
-```
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,html,css" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
+<br/>
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-2C6CB0?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4FC3F7?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,d3.js" />
+<br/>
+![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square&logo=recharts&logoColor=white)
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,streamlit" />
+<br/>
+![Jetty](https://img.shields.io/badge/Jetty%209-e11d48?style=flat-square)
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase,firebase" />
+<br/>
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6366F1?style=flat-square)
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,linux" />
+<br/>
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=flat-square&logo=cloudfoundry&logoColor=white)
 
 ---
 
@@ -197,7 +222,9 @@ Building Data Pristine, an end-to-end data quality and anomaly detection pipelin
 ## GitHub Trophies
 
 <div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=Humble-Librarian&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</a>
 </div>
 
 ---
@@ -205,7 +232,7 @@ Building Data Pristine, an end-to-end data quality and anomaly detection pipelin
 ## Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Humble-Librarian&theme=tokyonight&hide_border=true&color=7aa2f7&line=9ece6a&point=bb9af7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Humble-Librarian&theme=dark&hide_border=true&color=7aa2f7&line=9ece6a&point=bb9af7&bg_color=1a1b26" />
 </div>
 
 ---
