@@ -67,10 +67,9 @@ Outside of internship work, I design and ship independent products end-to-end â€
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,linux" />
 <br/>
 <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP"/>
-<img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white" alt="Cloud Foundry"/>
 
 ---
 
