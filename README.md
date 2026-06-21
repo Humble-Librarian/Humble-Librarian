@@ -45,7 +45,6 @@ Outside of internship work, I design and ship independent products end-to-end â€
 <br/>
 <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDNoOHY4SDNWM3ptMCAxMGg4djhIM3YtOHptMTAtMTBoOHY4aC04VjN6bTUgMTB2OGgtM3YtOGgzeiIvPjwvc3ZnPg==&logoColor=white" alt="LightGBM"/>
 <img src="https://img.shields.io/badge/Optuna-2C6CB0?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna"/>
-<img src="https://img.shields.io/badge/FAISS-4FC3F7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xNiAxNmw1IDUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white" alt="FAISS"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMyAyTDMgMTRoOWwtMSA4IDEwLTEyaC05bDEtOHoiLz48L3N2Zz4=&logoColor=white" alt="Groq"/>
 
 **Frontend**
