@@ -228,6 +228,11 @@ Building Data Pristine, an end-to-end data quality and anomaly detection pipelin
 ## Contribution Activity
 
 <div align="center">
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Humble-Librarian&theme=dark&hide_border=true&color=7aa2f7&line=9ece6a&point=bb9af7&bg_color=1a1b26" />
 </div>
 
