@@ -220,7 +220,7 @@ Building Data Pristine, an end-to-end data quality and anomaly detection pipelin
 ## GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Humble-Librarian&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/Humble-Librarian/Humble-Librarian/output/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 ---
