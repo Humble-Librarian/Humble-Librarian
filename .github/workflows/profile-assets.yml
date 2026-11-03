@@ -44,6 +44,18 @@ jobs:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=9ece6a&currStreakNum=9ece6a&sideNums=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=a9b1d6
           path: dist/streak.svg
 
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v2
+        with:
+          username: ${{ github.repository_owner }}
+          output: dist/activity-graph.svg
+          theme: tokyonight
+          bg_color: 1a1b26
+          color: 7aa2f7
+          line: 9ece6a
+          point: bb9af7
+          hide_border: true
+
       - name: Deploy Assets to Output Branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
