@@ -45,16 +45,12 @@ jobs:
           path: dist/streak.svg
 
       - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          output: dist/activity-graph.svg
-          theme: tokyonight
-          bg_color: 1a1b26
-          color: 7aa2f7
-          line: 9ece6a
-          point: bb9af7
-          hide_border: true
+          output_path: dist/activity-graph.svg
+          options: theme=tokyonight&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=9ece6a&point=bb9af7
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy Assets to Output Branch
         uses: crazy-max/ghaction-github-pages@v5
