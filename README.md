@@ -17,15 +17,27 @@
 
 ---
 
-### 🐟 Living Koi Ecosystem (Activity-Driven Aquarium)
+### 🐟 Living Koi Ecosystem (Language-Mapped Aquarium)
 
 <div align="center">
 
 <!-- Animated pixel-art koi pond powered by git-koi-aquarium workflow -->
 <img src="https://raw.githubusercontent.com/Humble-Librarian/Humble-Librarian/output/aquarium.svg" alt="Git Koi Aquarium" width="100%" />
 
+<br/>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Python-Kohaku_%26_Yamabuki_(White_%26_Gold)-FFD700?style=flat-square" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-Asagi_(Blue_%26_Grey)-38BDF8?style=flat-square" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-Karasugoi_(Black_%26_Deep_Sumi)-3178C6?style=flat-square" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/C_%2F_C++-Chagoi_(Tea_%26_Bronze)-CD7F32?style=flat-square" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Web_%26_Other-Platinum_(Silver_%26_White)-E2E8F0?style=flat-square" /></td>
+  </tr>
+</table>
+
 <p align="center">
-  <sub>Living pond generated from real commit velocity, streak continuity, and language distribution.</sub>
+  <sub>Koi varieties and body lengths are dynamically scaled in real-time by your GitHub language distribution.</sub>
 </p>
 
 </div>
