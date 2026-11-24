@@ -125,11 +125,6 @@ systems = ["Manifest V3 (Browser Extensions)", "FastAPI", "React", "Next.js 14",
 <!-- Activity Graph Deployed Statically from output branch -->
 <img src="https://raw.githubusercontent.com/Humble-Librarian/Humble-Librarian/output/activity-graph.svg" alt="Activity Graph" width="98%"/>
 
-<br/><br/>
-
-<!-- Lowlighter Metrics Infographics (Isometric Calendar & Technical Habits) -->
-<img src="https://raw.githubusercontent.com/Humble-Librarian/Humble-Librarian/output/metrics.svg" alt="Technical Metrics & Habits" width="98%"/>
-
 </div>
 
 ---
