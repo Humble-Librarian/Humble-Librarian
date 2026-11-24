@@ -17,6 +17,21 @@
 
 ---
 
+### 🐟 Living Koi Ecosystem (Activity-Driven Aquarium)
+
+<div align="center">
+
+<!-- Animated pixel-art koi pond powered by git-koi-aquarium workflow -->
+<img src="https://raw.githubusercontent.com/Humble-Librarian/Humble-Librarian/output/aquarium.svg" alt="Git Koi Aquarium" width="100%" />
+
+<p align="center">
+  <sub>Living pond generated from real commit velocity, streak continuity, and language distribution.</sub>
+</p>
+
+</div>
+
+---
+
 ### ⚡ Flagship Systems & Published Works
 
 <table>
