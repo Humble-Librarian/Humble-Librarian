@@ -1,4 +1,4 @@
-name: Generate Profile Visuals
+name: Generate Profile Visuals & Telemetry
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Generate Visual Assets
+    name: Generate Telemetry Assets
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,6 +19,7 @@ jobs:
       - name: Setup output directory
         run: mkdir -p dist
 
+      # 1. Contribution Grid Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -28,6 +29,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg?palette=github
 
+      # 2. GitHub Profile Trophy (Tokyo Night / Minimal Frame)
       - name: Generate Profile Trophy
         uses: ryo-ma/github-profile-trophy@master
         with:
@@ -38,12 +40,14 @@ jobs:
           no-frame: true
           no-bg: true
 
+      # 3. GitHub Readme Streak Stats
       - name: Generate Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=9ece6a&currStreakNum=9ece6a&sideNums=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=a9b1d6
           path: dist/streak.svg
 
+      # 4. GitHub Readme Activity Graph
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -52,6 +56,28 @@ jobs:
           options: theme=tokyonight&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=9ece6a&point=bb9af7
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 5. Lowlighter Metrics (Isometric Calendar & Technical Habits)
+      - name: Generate Metrics Infographics
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: dist/metrics.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_colors: github
+
+      # 6. Deploy All Generated Assets to the output Branch
       - name: Deploy Assets to Output Branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
