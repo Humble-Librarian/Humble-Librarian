@@ -56,7 +56,7 @@ jobs:
           options: theme=tokyonight&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=9ece6a&point=bb9af7
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 5. Git Koi Aquarium (Living Pixel-Art Koi Pond)
+      # 5. Git Koi Aquarium
       - name: Generate Git Koi Aquarium
         uses: reginaldalfret/git-koi-aquarium@v1
         continue-on-error: true
@@ -64,7 +64,14 @@ jobs:
           body: aquarium
           output-dir: dist
 
-      # 6. Deploy All Generated Assets to the output Branch
+      # 6. Post-Process Koi: Scale & Map by Language Share
+      - name: Scale Koi by Language Distribution
+        run: |
+          if [ -f dist/aquarium.svg ]; then
+            python3 scripts/scale_aquarium.py dist/aquarium.svg "${{ github.repository_owner }}"
+          fi
+
+      # 7. Deploy All Generated Assets to the output Branch
       - name: Deploy Assets to Output Branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
